@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.hopperfilter.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "HopperBlockEntityMixin",
+    "VanillaInventoryCodeHooksMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

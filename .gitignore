@@ -1,0 +1,21 @@
+﻿# Gradle and build directories
+.gradle/
+build/
+prebuild/.gradle/
+prebuild/build/
+prebuild/run/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+bin/
+out/
+
+# System files
+.DS_Store
+Thumbs.db

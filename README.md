@@ -39,6 +39,15 @@
 
 ---
 
+## 📚 Documentation & Wiki
+
+For detailed guides, designs, and mechanics, check out:
+- ⚙️ [Core Mechanics](docs/Mechanics.md)
+- 📦 [Building Sorting Systems & Designs](docs/Sorting-Systems.md)
+- ❓ [Frequently Asked Questions (FAQ)](docs/FAQ.md)
+
+---
+
 ## 🛠️ Building from Source
 
 ```bash

@@ -4,6 +4,8 @@
 
 **Hopper Filter** is a lightweight, vanilla-friendly mod for **NeoForge 1.21.1** created by **MitraFun**. It allows you to filter items passing through hoppers simply by attaching **Item Frames** to them.
 
+![Hopper Filter Demo](https://raw.githubusercontent.com/mitrafun-creator/hopper-filter/main/hopper-filter-demo.gif)
+
 ---
 
 ## ✨ Features

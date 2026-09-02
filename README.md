@@ -1,4 +1,4 @@
-﻿# 🔍 Hopper Filter
+# 🔍 Hopper Filter
 
 > Simple & vanilla-friendly item filtering for hoppers using item frames. No bulky redstone sorters required!
 
@@ -42,7 +42,8 @@
 ## 🛠️ Building from Source
 
 ```bash
-cd prebuild
+git clone https://github.com/mitrafun-creator/hopper-filter.git
+cd hopper-filter/prebuild
 ./gradlew build
 ```
 
